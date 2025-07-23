@@ -97,7 +97,7 @@ const Search = () => {
             className="h-96 w-96"
           />
           <Text className="text-3xl text-white text-center ">
-            This Movie not found!!!
+            This Movie not found!
           </Text>
         </View>
       )}
